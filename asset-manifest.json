@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pokezone/static/css/main.68431b4b.chunk.css",
+    "main.js": "/pokezone/static/js/main.4f9ba5cf.chunk.js",
+    "main.js.map": "/pokezone/static/js/main.4f9ba5cf.chunk.js.map",
+    "runtime-main.js": "/pokezone/static/js/runtime-main.28e86965.js",
+    "runtime-main.js.map": "/pokezone/static/js/runtime-main.28e86965.js.map",
+    "static/js/2.8487de53.chunk.js": "/pokezone/static/js/2.8487de53.chunk.js",
+    "static/js/2.8487de53.chunk.js.map": "/pokezone/static/js/2.8487de53.chunk.js.map",
+    "static/js/3.bfe77840.chunk.js": "/pokezone/static/js/3.bfe77840.chunk.js",
+    "static/js/3.bfe77840.chunk.js.map": "/pokezone/static/js/3.bfe77840.chunk.js.map",
+    "index.html": "/pokezone/index.html",
+    "static/css/main.68431b4b.chunk.css.map": "/pokezone/static/css/main.68431b4b.chunk.css.map",
+    "static/js/2.8487de53.chunk.js.LICENSE.txt": "/pokezone/static/js/2.8487de53.chunk.js.LICENSE.txt",
+    "static/media/pokemon-logo.e80c762b.png": "/pokezone/static/media/pokemon-logo.e80c762b.png",
+    "static/media/search-icon.6384197d.svg": "/pokezone/static/media/search-icon.6384197d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28e86965.js",
+    "static/js/2.8487de53.chunk.js",
+    "static/css/main.68431b4b.chunk.css",
+    "static/js/main.4f9ba5cf.chunk.js"
+  ]
+}
