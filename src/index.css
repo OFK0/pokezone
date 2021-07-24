@@ -2,7 +2,13 @@
    v2.0 | 20110126
    License: none (public domain)
 */
+input {
+  border-radius: 0;
+}
 
+input[type='search'] {
+  -webkit-appearance: none;
+}
 html,
 body,
 div,
